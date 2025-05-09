@@ -43,8 +43,7 @@ Handwritten digit recognition is a classic image classification problem with pra
 ## 📁 How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/handwritten-digit-recognition-deep-learning.git
-   cd handwritten-digit-recognition-deep-learning
+   https://github.com/imrangit-wq/recognizing-handwritten-digits-with-deep-learning-for-smarter-aiapplications
    ```
 2. Run the Jupyter notebook or Python scripts inside the `notebooks/` folder.
 
@@ -91,5 +90,5 @@ Responsibilities:
 
 
 ## 📬 Contact
-For questions or collaborations, please reach out at [mohammedabubakkar2004@gmail.com].
+For questions or collaborations, please reach out at [imranweb6369@gmail.com].
 
